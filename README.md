@@ -1,8 +1,7 @@
 # Udacity-Capstone-Project
 ###### Udacity 机器学习工程师（高级）结业项目，选择完成 Forecast Rossmann Store Sales，[Kaggle 项目地址](https://www.kaggle.com/c/rossmann-store-sales)  
-###### 成绩：RMSPE = 0.11441(0.10021 No.1)，排名：113（3303 total），比例：3.4%
-
-
+###### 成绩：RMSPE = 0.11441(0.10021 No.1)，排名：113（3303 total），比例：3.4%  
+![](https://github.com/Lukaschen1986/Udacity-Capstone-Project/blob/master/4-result/score.png)  
 
 #### 开发环境与必备库
 ###### Python 3.6.6
